@@ -1,2 +1,2 @@
-Ezt a játkot a debreceni Agórában láttuk. A többit majd később.
+We saw this game at the Agóra in Debrecen. More later.
 
