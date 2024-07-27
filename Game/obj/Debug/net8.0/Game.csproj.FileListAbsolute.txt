@@ -1,0 +1,15 @@
+/home/peter/tools/development/board_football/Game/bin/Debug/net8.0/Game
+/home/peter/tools/development/board_football/Game/bin/Debug/net8.0/Game.deps.json
+/home/peter/tools/development/board_football/Game/bin/Debug/net8.0/Game.runtimeconfig.json
+/home/peter/tools/development/board_football/Game/bin/Debug/net8.0/Game.dll
+/home/peter/tools/development/board_football/Game/bin/Debug/net8.0/Game.pdb
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.sourcelink.json
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.dll
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/refint/Game.dll
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.pdb
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/Game.genruntimeconfig.cache
+/home/peter/tools/development/board_football/Game/obj/Debug/net8.0/ref/Game.dll

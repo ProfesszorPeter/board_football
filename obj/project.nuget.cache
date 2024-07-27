@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qO5GleztjrJSocNEyG9V49QBxBox+VfTQ5ngaVucMR/ZtY0HHDp11/Qdjfw12mPhaCFuFKY5N+vV6tgjKdCveA==",
+  "success": true,
+  "projectFilePath": "/home/peter/tools/development/board_football/board_football.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
