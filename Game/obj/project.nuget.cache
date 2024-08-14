@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ABYKpI4v1v4GY227MlFlGI6eTEuiguH5FwlgKBy9G1N6H820x/eNjg0nvbZX6pXqBV1tBzQoqFDhiv3uY7xjuA==",
+  "dgSpecHash": "sEJn1CRX1oc=",
   "success": true,
-  "projectFilePath": "/home/peter/tools/development/board_football/Game/Game.csproj",
-  "expectedPackageFiles": [
-    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
-  ],
+  "projectFilePath": "/workspaces/board_football/Game/Game.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
